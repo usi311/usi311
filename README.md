@@ -9,7 +9,7 @@ I am a software developer and technical content creator. I am passionate about b
 - 🛠️ Additional experience developing algorithms and solving mathematical problems using **C++** and **Python**.
 - 🌍 Based in Mexico.
 
-## 🛠️ Technologies & Tools
+## 🛠️️ Technologies & Tools
 
 - **Backend:** Node.js, Express.js
 - **Languages:** JavaScript, C++, Python
@@ -22,6 +22,7 @@ A structured technical document designed to take students to a competitive level
 - 📄 High-quality PDF format.
 - 🏗️ Architectures, code examples, and best practices.
 - 💡 Oriented towards implementation in production environments.
+- 🔗 **[👉 Click here to view the Course Syllabus and a Free Sample!](https://github.com/usi311/curso-nodejs-2026/blob/main/Course_Syllabus_and_Sample.md)**
 
 ---
-📫 **How to reach me:** You can send me a message via email [usiel311.ruiz@gmail.com](mailto:usiel311.ruiz@gmail.com).
+📫 **How to reach me:** You can send me a message via email at [usiel311.ruiz@gmail.com](mailto:usiel311.ruiz@gmail.com).

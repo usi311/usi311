@@ -24,4 +24,4 @@ A structured technical document designed to take students to a competitive level
 - 💡 Oriented towards implementation in production environments.
 
 ---
-📫 **How to reach me:** You can send me a message through my social networks or via email.
+📫 **How to reach me:** You can send me a message via email [usiel311.ruiz@gmail.com](mailto:usiel311.ruiz@gmail.com).

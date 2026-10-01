@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi! I'm Angel Ruiz 👋
 
-<!--
-**usi311/usi311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer and technical content creator. I am passionate about backend development, algorithmic problem-solving, and creating high-value educational resources for programmers.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Primarily focused on backend development with **Node.js** and the JavaScript ecosystem.
+- 📚 Author and creator of the digital course **"Node.js: From Zero to Advanced"**.
+- 🛠️ Additional experience developing algorithms and solving mathematical problems using **C++** and **Python**.
+- 🌍 Based in Mexico.
+
+## 🛠️ Technologies & Tools
+
+- **Backend:** Node.js, Express.js
+- **Languages:** JavaScript, C++, Python
+- **Tools:** Git, GitHub, Postman, VS Code
+
+## 📘 My Educational Products
+
+### 📦 Intensive Manual: Node.js from Basic to Advanced
+A structured technical document designed to take students to a competitive level.
+- 📄 High-quality PDF format.
+- 🏗️ Architectures, code examples, and best practices.
+- 💡 Oriented towards implementation in production environments.
+
+---
+📫 **How to reach me:** You can send me a message through my social networks or via email.
